@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tesis-251800",
+  "private_key_id": "905a737f0c52d05933ffdfce67958bb1aa677d35",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDBmctNNxAPCfxU\nSTJk3te6xNVmcKFCIArrHcZpsh/BU8EDcA9wSRhkBgUaEzzLP+BqMCwbNJu64GSh\nf7fvDl0whCU1Lg2YfTTBAhKVYbDl5MY9OGU7Yk7Ea6EQ6U211QQ+LDjnshYqJpEV\nxub2np5wuMcrRNy9kCGbaYvPUuC7sKJp3izfEJhSKi4YSBl1qfHJwX14uzosNgYM\nKlHlmITXchMZJGOxv37lPj3XAu0ysT8ZPPUjTMM9tu6G3Zz861Q7gGpyn5fJdFgC\n+A7AMtbi0ymrg6n4K38GXvkxlzKEcRJSzadlTJ6eytz9bzUOjR4AES60MMZMzRyG\nRuR/nf4HAgMBAAECggEABCTHo96+iPJEqwTCct1AKDIa6fpI9H9DrI+ZFd10B4r3\nq4Kqme0k+//fyRSWhwUjFDLB87a3CvnPI/oo7isHb8iyrfloqhX39JX+RTs8WL21\ne01czh4T1uloBTjxHfSx7NpWdEMTOivtvzxGgj3LFCX1GvLg3jlnafBvrexosF7h\n9h+WJhFFVT3n36FDGCUrk4D2eJXibIq3+f2oYSI4b5zVK9fzFsahZO8ud4PqhQEI\nFV6ueMlTnlGiEl4VGKsyRM/dfC+NSP/+DqYuk4sOA0ImrPzYPw3exUacELU85US0\nMSzOBb/rYYz5LnFK3UrG47m12+Did+ArNGP5/RrcHQKBgQD7Z2779IqHXNf2xf+M\nxnrgg7orpL3364qbCcpIxwueLcNNnhQwHUKkW/mwU4HwH4m9JoU480kQz0bl8CjV\nmJGAlVam482giiH4weNyw5bLRsy1/XPphuB61TX/A9ujI+OYd8I8ETHliLH9LaDz\nIyDE12yIF14ZzJ0q9uD2qCJulQKBgQDFI9egKVH1//2amQQRtgQaEzZIZuoAtc/X\nudK1g+nt8FFi7qiDrUlf2CtP5ojGcoWuvBBVcWgE6llnlSBx/Q3l0zer3ANbZY+J\nkdBLAS9MbtNFbRFVVJmnQIMp7+GOl1vqMQFPFcVuxpHZ4J6DS7lCYbZpVFLuEFdi\n9UH6tjP/KwKBgQCqKvDsijHaPfXQi2TWnOI/Zep18CTF0yEWoCHT8SbkAoXX29A+\nYQ/iwH7Z4yxopHBPH+u9CK/EOQj8SvrY2VRjfLISdM+Sgu1Lu7GA1PMU1O9roAr9\nXtZDTl4mJy5b1scPRMCsd9cWTthrTp9K89QSaN6Fn4uKWv1nP4Q2cMgdoQKBgGXv\nPYxcMTwRDLHGkxsRUZel/Xh8dly9peW2+OPQfMICdCLCorHLhVggr2yWGHz8NHGA\nXrW/ePipsGbl7ivinDANAglELxwwLIMGuXw+9ZUA7Q9F8SN9JiIcMnYZyjhvvSAg\nDLw21qqL1FijU3MyUW2olqhp6KOeIYFSrbYURliXAoGBAM+OipmymkAnW81hi4l4\noOIl1mMW7KZRFc+dpG6nhsuL8+vrKy7Pbgp45hzCO4QshfXZnjWeQWKRGY1h8xxc\nKy7fc0HmF8CMHqIupOkXLQYLEslXfAcUCM/JBZzvi8hbgwK1lgqtCjby2XZ3iNaj\nsdJwKcm0QaQT4VpihgTCHwON\n-----END PRIVATE KEY-----\n",
+  "client_email": "tesis-856@tesis-251800.iam.gserviceaccount.com",
+  "client_id": "107861505224651327758",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tesis-856%40tesis-251800.iam.gserviceaccount.com"
+}
